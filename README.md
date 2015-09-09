@@ -2,7 +2,6 @@
 
 An image scrolling view
 
-![imagescrollerdemo](https://cloud.githubusercontent.com/assets/5061628/9751825/5106aa80-565e-11e5-9c65-65dbf19e6444.gif)
 
 Very simple and extensible APIs
 
